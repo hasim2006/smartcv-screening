@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Screening Dashboard",
+  "description": "A premium futuristic SaaS dashboard for AI-powered resume screening, semantic matching, and candidate ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
