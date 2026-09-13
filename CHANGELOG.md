@@ -12,3 +12,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - Executive reporting center with CSV and JSON data export.
 - ClientMockApi layer for resilient static deployment on Netlify.
 - [2026-09-13] docs: initialize changelog tracking project milestones
+- [2026-09-13] docs: create system architecture specification overview
