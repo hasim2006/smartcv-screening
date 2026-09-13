@@ -1,8 +1,14 @@
 # Changelog
 
-- [2026-09-10] chore: initialize repository structure and ignore rules
-- [2026-09-10] chore: configure project dependencies and npm scripts
-- [2026-09-11] chore: setup typescript compilation target and strict typechecking
-- [2026-09-11] chore: setup vite configuration with react plugin and build settings
-- [2026-09-12] chore: add environment variables schema and example template
-- [2026-09-12] chore: configure workspace metadata and package lockfile
+All notable changes to the SmartCV Screening project are documented in this file.
+
+## [1.0.0] - 2026-10-24
+### Added
+- Complete Dark and Light Mode theme system with semantic tokens and instant toggle.
+- 100% Fully responsive mobile, tablet, and desktop navigation with off-canvas drawer.
+- AI-driven ATS resume scoring and multi-dimensional skill radar visualization.
+- Batch resume screening queue with multi-file drag-and-drop support.
+- Shortlist management and integrated interview scheduler.
+- Executive reporting center with CSV and JSON data export.
+- ClientMockApi layer for resilient static deployment on Netlify.
+- [2026-09-13] docs: initialize changelog tracking project milestones
