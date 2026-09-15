@@ -15,3 +15,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-13] docs: create system architecture specification overview
 - [2026-09-14] feat(types): define Candidate, JobDescription and ScreeningResult interfaces
 - [2026-09-14] feat(types): define scoring breakdown metrics and ATS match criteria
+- [2026-09-15] feat(server): setup express application with json parser and cors middleware
