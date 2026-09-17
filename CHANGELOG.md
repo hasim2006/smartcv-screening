@@ -17,3 +17,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-14] feat(types): define scoring breakdown metrics and ATS match criteria
 - [2026-09-15] feat(server): setup express application with json parser and cors middleware
 - [2026-09-15] feat(server): create persistent json database seed for candidate records
+- [2026-09-17] feat(server): implement GET /api/candidates query endpoint
