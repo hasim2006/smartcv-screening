@@ -20,3 +20,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-17] feat(server): implement GET /api/candidates query endpoint
 - [2026-09-17] feat(server): implement GET /api/candidates/:id detail handler
 - [2026-09-17] feat(server): implement candidate search by keyword and skill tags
+- [2026-09-18] feat(server): implement status update endpoint for candidates
