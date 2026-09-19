@@ -23,3 +23,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-18] feat(server): implement status update endpoint for candidates
 - [2026-09-18] feat(server): create job description ingestion endpoint
 - [2026-09-19] feat(server): add analytics aggregation route for applicant pipeline
+- [2026-09-19] docs: document REST API contracts and request/response schemas
