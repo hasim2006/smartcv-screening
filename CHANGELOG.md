@@ -28,3 +28,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-20] style: establish semantic color variables and typography scale
 - [2026-09-20] style: add glassmorphism utilities and elevation shadow classes
 - [2026-09-21] style: configure custom scrollbars and badge animations
+- [2026-09-21] style: configure dark theme root variable defaults and accents
