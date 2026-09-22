@@ -30,3 +30,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-21] style: configure custom scrollbars and badge animations
 - [2026-09-21] style: configure dark theme root variable defaults and accents
 - [2026-09-21] feat(assets): configure modern svg favicon and application icons
+- [2026-09-22] feat(html): configure responsive viewport meta tags and web app title
