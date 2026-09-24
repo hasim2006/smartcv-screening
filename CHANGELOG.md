@@ -32,3 +32,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-21] feat(assets): configure modern svg favicon and application icons
 - [2026-09-22] feat(html): configure responsive viewport meta tags and web app title
 - [2026-09-22] feat(app): initialize React 19 root component and DOM mounting
+- [2026-09-24] feat(layout): build responsive application shell with persistent nav slots
