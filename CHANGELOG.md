@@ -36,3 +36,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-24] feat(nav): create sidebar menu links and active indicator styling
 - [2026-09-24] feat(nav): create top navigation bar with search bar container
 - [2026-09-25] feat(dashboard): scaffold dashboard overview container and header
+- [2026-09-25] feat(dashboard): implement KPI cards for total applicants and review counts
