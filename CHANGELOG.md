@@ -38,3 +38,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-25] feat(dashboard): scaffold dashboard overview container and header
 - [2026-09-25] feat(dashboard): implement KPI cards for total applicants and review counts
 - [2026-09-26] feat(dashboard): add average match score and interview rate metric tiles
+- [2026-09-26] feat(dashboard): build active job requisition overview grid
