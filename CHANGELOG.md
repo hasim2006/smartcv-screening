@@ -40,3 +40,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-26] feat(dashboard): add average match score and interview rate metric tiles
 - [2026-09-26] feat(dashboard): build active job requisition overview grid
 - [2026-09-26] feat(dashboard): add recent candidate activity feed with status tags
+- [2026-09-27] feat(dashboard): add quick action shortcuts for resume screening and JD upload
