@@ -44,3 +44,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-27] refactor(dashboard): optimize metric card layout for high DPI displays
 - [2026-09-28] style(dashboard): refine card border glow and hover state transitions
 - [2026-09-28] test(dashboard): verify metric calculation utility accuracy
+- [2026-09-28] docs: document dashboard KPI formulas and data aggregation rules
