@@ -46,3 +46,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-28] test(dashboard): verify metric calculation utility accuracy
 - [2026-09-28] docs: document dashboard KPI formulas and data aggregation rules
 - [2026-09-29] feat(jd): scaffold Job Description upload form container
+- [2026-09-29] feat(jd): implement role title, department, and location input fields
