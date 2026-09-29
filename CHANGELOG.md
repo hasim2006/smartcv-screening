@@ -45,3 +45,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-28] style(dashboard): refine card border glow and hover state transitions
 - [2026-09-28] test(dashboard): verify metric calculation utility accuracy
 - [2026-09-28] docs: document dashboard KPI formulas and data aggregation rules
+- [2026-09-29] feat(jd): scaffold Job Description upload form container
