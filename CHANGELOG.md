@@ -49,3 +49,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-09-29] feat(jd): implement role title, department, and location input fields
 - [2026-09-30] feat(jd): add dynamic skill tags input with addition and removal tags
 - [2026-09-30] feat(jd): add minimum experience range slider and qualification criteria
+- [2026-09-30] feat(jd): add full job description rich text editor input
