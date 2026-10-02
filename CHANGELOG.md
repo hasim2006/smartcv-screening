@@ -53,3 +53,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-01] feat(jd): build real-time JD parsing preview card
 - [2026-10-01] feat(jd): implement form reset and prefill sample job templates
 - [2026-10-02] refactor(jd): add validation rules for required fields and minimum skill count
+- [2026-10-02] style(jd): style dropzone with dashed border and drag-over highlight
