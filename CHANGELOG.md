@@ -55,3 +55,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-02] refactor(jd): add validation rules for required fields and minimum skill count
 - [2026-10-02] style(jd): style dropzone with dashed border and drag-over highlight
 - [2026-10-02] docs: document job description parsing rules and keyword extraction logic
+- [2026-10-03] feat(screening): scaffold resume batch screening interface
