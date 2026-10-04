@@ -58,3 +58,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-03] feat(screening): scaffold resume batch screening interface
 - [2026-10-03] feat(screening): implement multi-file drag and drop uploader zone
 - [2026-10-04] feat(screening): add file format validation for PDF and DOCX documents
+- [2026-10-04] feat(screening): create upload progress indicators with animated progress bars
