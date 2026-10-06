@@ -62,3 +62,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-04] feat(screening): build batch processing queue table with live status pills
 - [2026-10-05] feat(screening): implement simulated AI resume parsing pipeline
 - [2026-10-05] feat(screening): display extracted candidate name and detected skills
+- [2026-10-06] feat(screening): calculate instant ATS match score against active job
