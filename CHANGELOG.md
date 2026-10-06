@@ -64,3 +64,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-05] feat(screening): display extracted candidate name and detected skills
 - [2026-10-06] feat(screening): calculate instant ATS match score against active job
 - [2026-10-06] refactor(screening): handle file upload cancellation and error retries
+- [2026-10-06] style(screening): refine screening queue table styling and row badges
