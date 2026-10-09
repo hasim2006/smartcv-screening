@@ -69,3 +69,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-08] feat(candidates): implement instant debounced candidate search filter
 - [2026-10-09] feat(candidates): add filter by match score range and status dropdown
 - [2026-10-09] feat(candidates): add filter by department and experience years
+- [2026-10-09] feat(candidates): implement table sorting by match score, name, and date
