@@ -67,3 +67,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-06] style(screening): refine screening queue table styling and row badges
 - [2026-10-08] feat(candidates): scaffold candidate talent directory table
 - [2026-10-08] feat(candidates): implement instant debounced candidate search filter
+- [2026-10-09] feat(candidates): add filter by match score range and status dropdown
