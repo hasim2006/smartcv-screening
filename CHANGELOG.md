@@ -73,3 +73,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-10] feat(candidates): add candidate avatar rendering with initials and color hashing
 - [2026-10-10] feat(candidates): add inline status quick-actions for Shortlist and Reject
 - [2026-10-11] feat(candidates): add candidate selection checkboxes for bulk operations
+- [2026-10-11] refactor(candidates): memoize filtered candidates list to eliminate re-renders
