@@ -76,3 +76,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-11] refactor(candidates): memoize filtered candidates list to eliminate re-renders
 - [2026-10-11] style(candidates): add alternating row shading and responsive padding
 - [2026-10-12] feat(profile): create sliding candidate profile drawer modal
+- [2026-10-12] feat(profile): implement interactive SVG pentagonal skill radar chart
