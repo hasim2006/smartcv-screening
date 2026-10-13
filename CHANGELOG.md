@@ -79,3 +79,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-12] feat(profile): implement interactive SVG pentagonal skill radar chart
 - [2026-10-13] feat(profile): add detailed score breakdown for Technical, Experience, and Soft Skills
 - [2026-10-13] feat(profile): add AI evaluation overview with strengths, red flags and fit summary
+- [2026-10-13] feat(profile): implement candidate tabs for Overview, Work History, and Resume View
