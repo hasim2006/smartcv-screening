@@ -83,3 +83,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-15] feat(profile): generate recommended interview questions tailored to candidate gaps
 - [2026-10-15] feat(profile): add direct candidate action triggers for interview scheduling
 - [2026-10-16] refactor(profile): optimize radar chart geometry calculation and SVG viewBox
+- [2026-10-16] style(profile): style candidate score gauges with circular progress indicators
