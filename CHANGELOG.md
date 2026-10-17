@@ -86,3 +86,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-16] style(profile): style candidate score gauges with circular progress indicators
 - [2026-10-16] docs: document 5-factor ATS scoring algorithm and radar chart math
 - [2026-10-17] feat(shortlist): scaffold shortlist management and interview tracking view
+- [2026-10-17] feat(shortlist): build candidate shortlist cards with match badges and notes
