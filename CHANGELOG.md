@@ -90,3 +90,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-18] feat(shortlist): create interactive interview scheduling modal dialog
 - [2026-10-18] feat(shortlist): add interview round selector and interviewer assignment input
 - [2026-10-18] feat(shortlist): add calendar date-time picker with timezone support
+- [2026-10-19] feat(shortlist): add scheduled interview status indicators (Upcoming, Done)
