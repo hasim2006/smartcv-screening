@@ -93,3 +93,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-19] feat(shortlist): add scheduled interview status indicators (Upcoming, Done)
 - [2026-10-19] refactor(shortlist): handle empty shortlist state with recruiter onboarding guide
 - [2026-10-20] style(shortlist): style interview cards with calendar badges and status indicators
+- [2026-10-20] feat(analytics): scaffold recruitment analytics dashboard view
