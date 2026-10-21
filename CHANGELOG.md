@@ -95,3 +95,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-20] style(shortlist): style interview cards with calendar badges and status indicators
 - [2026-10-20] feat(analytics): scaffold recruitment analytics dashboard view
 - [2026-10-20] feat(analytics): integrate Recharts candidate pipeline funnel visualization
+- [2026-10-21] feat(analytics): add top required skills radar and demand distribution chart
