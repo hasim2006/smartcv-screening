@@ -98,3 +98,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-21] feat(analytics): add top required skills radar and demand distribution chart
 - [2026-10-21] feat(reports): build recruitment reporting center and export hub
 - [2026-10-22] feat(reports): implement one-click CSV and JSON export for candidate pools
+- [2026-10-22] feat(theme): implement ThemeContext with system auto-detect and localStorage persistence
