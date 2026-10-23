@@ -5,8 +5,8 @@ import {
   AreaChart, Area, XAxis, YAxis, Tooltip, CartesianGrid,
   BarChart, Bar, Cell
 } from "recharts";
-import { DashboardStats } from "../types.js";
-import { useTheme } from "../context/ThemeContext.js";
+import { DashboardStats } from "../../types.js";
+import { useTheme } from "../../context/ThemeContext.js";
 
 interface DashboardHomeProps {
   setActivePage: (page: string) => void;

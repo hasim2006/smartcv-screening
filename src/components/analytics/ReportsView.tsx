@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Download, FileText, Check, ShieldCheck, FileSpreadsheet, FileJson, Sparkles } from "lucide-react";
-import { Candidate, JobDescription, DashboardStats } from "../types.js";
+import { Candidate, JobDescription, DashboardStats } from "../../types.js";
 
 interface ReportsViewProps {
   candidates: Candidate[];

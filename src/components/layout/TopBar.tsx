@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Search, Bell, User, Menu, Sun, Moon } from "lucide-react";
-import { AppNotification, JobDescription } from "../types.js";
-import { useTheme } from "../context/ThemeContext.js";
+import { AppNotification, JobDescription } from "../../types.js";
+import { useTheme } from "../../context/ThemeContext.js";
 
 interface TopBarProps {
   activePage: string;

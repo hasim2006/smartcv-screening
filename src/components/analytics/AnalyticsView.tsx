@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, AreaChart, Area, PieChart, Pie } from "recharts";
 import { Sparkles, TrendingUp, Award, UserCheck, ShieldCheck } from "lucide-react";
-import { useTheme } from "../context/ThemeContext.js";
+import { useTheme } from "../../context/ThemeContext.js";
 
 export default function AnalyticsView() {
   const [data, setData] = useState<any>(null);

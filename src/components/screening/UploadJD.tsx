@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FileUp, Sparkles, Check, Save, Edit3, RefreshCw } from "lucide-react";
-import { JobDescription, ParsedJD } from "../types.js";
+import { JobDescription, ParsedJD } from "../../types.js";
 
 interface UploadJDProps {
   activeJD: JobDescription | null;

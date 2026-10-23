@@ -1,6 +1,6 @@
 import { useState, useMemo } from "react";
 import { Search, Eye, CheckCircle2, XCircle, ArrowUpDown } from "lucide-react";
-import { Candidate, AIVerdict, CandidateStatus } from "../types.js";
+import { Candidate, AIVerdict, CandidateStatus } from "../../types.js";
 
 interface CandidatesProps {
   candidates: Candidate[];

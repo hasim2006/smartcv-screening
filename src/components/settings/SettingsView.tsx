@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Save, AlertTriangle, CheckCircle2, Sliders, RefreshCw, Sun, Moon } from "lucide-react";
-import { AppSettings } from "../types.js";
-import { useTheme } from "../context/ThemeContext.js";
+import { AppSettings } from "../../types.js";
+import { useTheme } from "../../context/ThemeContext.js";
 
 interface SettingsViewProps {
   settings: AppSettings | null;

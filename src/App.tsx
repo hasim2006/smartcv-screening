@@ -1,15 +1,10 @@
 import { useState, useEffect } from "react";
-import Sidebar from "./components/Sidebar.js";
-import TopBar from "./components/TopBar.js";
-import DashboardHome from "./components/DashboardHome.js";
-import UploadJD from "./components/UploadJD.js";
-import ResumeScreening from "./components/ResumeScreening.js";
-import Candidates from "./components/Candidates.js";
-import AnalyticsView from "./components/AnalyticsView.js";
-import ShortlistView from "./components/ShortlistView.js";
-import ReportsView from "./components/ReportsView.js";
-import SettingsView from "./components/SettingsView.js";
-import CandidateProfile from "./components/CandidateProfile.js";
+import { Sidebar, TopBar } from "./components/layout/index.js";
+import { DashboardHome } from "./components/dashboard/index.js";
+import { UploadJD, ResumeScreening } from "./components/screening/index.js";
+import { Candidates, CandidateProfile, ShortlistView } from "./components/candidates/index.js";
+import { AnalyticsView, ReportsView } from "./components/analytics/index.js";
+import { SettingsView } from "./components/settings/index.js";
 
 import { Candidate, JobDescription, DashboardStats, AppSettings, AppNotification, CandidateStatus } from "./types.js";
 

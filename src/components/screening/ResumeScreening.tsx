@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { UploadCloud, FileText, AlertCircle, Trash2, Play, RefreshCw, Layers } from "lucide-react";
-import { Candidate, JobDescription } from "../types.js";
+import { Candidate, JobDescription } from "../../types.js";
 
 interface ResumeScreeningProps {
   candidates: Candidate[];

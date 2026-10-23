@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { X, Download, Calendar, Mail, Phone, MapPin, DollarSign, Briefcase, Check, AlertTriangle } from "lucide-react";
-import { Candidate, CandidateStatus } from "../types.js";
-import { useTheme } from "../context/ThemeContext.js";
+import { Candidate, CandidateStatus } from "../../types.js";
+import { useTheme } from "../../context/ThemeContext.js";
 
 interface CandidateProfileProps {
   candidate: Candidate;

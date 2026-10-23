@@ -1,5 +1,5 @@
 import { LayoutDashboard, FileUp, ScanLine, Users, BarChart3, CalendarCheck, FileText, Settings, X, Moon, Sun } from "lucide-react";
-import { useTheme } from "../context/ThemeContext.js";
+import { useTheme } from "../../context/ThemeContext.js";
 
 interface SidebarProps {
   activePage: string;

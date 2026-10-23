@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from "react";
 import { Calendar, AlertTriangle, Check, X, ChevronRight } from "lucide-react";
-import { Candidate, CandidateStatus } from "../types.js";
+import { Candidate, CandidateStatus } from "../../types.js";
 
 interface ShortlistViewProps {
   candidates: Candidate[];
