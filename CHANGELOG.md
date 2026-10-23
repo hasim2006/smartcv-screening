@@ -100,3 +100,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-22] feat(reports): implement one-click CSV and JSON export for candidate pools
 - [2026-10-22] feat(theme): implement ThemeContext with system auto-detect and localStorage persistence
 - [2026-10-22] style(theme): map comprehensive CSS semantic variables for dark and light color palettes
+- [2026-10-23] feat(theme): add seamless Dark/Light toggle controls in TopBar, Sidebar, and Settings
