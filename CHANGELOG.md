@@ -102,3 +102,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-22] style(theme): map comprehensive CSS semantic variables for dark and light color palettes
 - [2026-10-23] feat(theme): add seamless Dark/Light toggle controls in TopBar, Sidebar, and Settings
 - [2026-10-23] feat(responsive): add off-canvas mobile drawer, hamburger menu and adaptive tables
+- [2026-10-24] feat(client): implement ClientMockApi layer and Netlify SPA redirect rules for static hosting
