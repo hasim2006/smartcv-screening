@@ -104,3 +104,4 @@ All notable changes to the SmartCV Screening project are documented in this file
 - [2026-10-23] feat(responsive): add off-canvas mobile drawer, hamburger menu and adaptive tables
 - [2026-10-24] feat(client): implement ClientMockApi layer and Netlify SPA redirect rules for static hosting
 - [2026-10-24] ci: setup GitHub Actions CI workflow for build verification and testing
+- [2026-10-24] docs: deliver comprehensive production README with live demo link and system architecture
