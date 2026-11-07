@@ -11,13 +11,13 @@
 
 **SmartCV Screening AI** is an enterprise-grade AI recruiting intelligence suite designed for modern hiring teams. It automates candidate resume screening, evaluates candidates against Job Descriptions using multi-dimensional ATS criteria, visualizes skill profiles through interactive radar graphics, and streamlines the interview pipeline.
 
-[🚀 Explore Live Demo](https://smartcv-screening-ai.netlify.app) • [✨ Key Modules](#-key-modules) • [📁 Domain Architecture](#-domain-driven-project-structure) • [🛠️ Tech Stack](#️-technology-stack) • [🚀 Getting Started](#-getting-started)
+[ Explore Live Demo](https://smartcv-screening-ai.netlify.app) • [ Key Modules](#-key-modules) • [ Domain Architecture](#-domain-driven-project-structure) • [️ Tech Stack](#️-technology-stack) • [ Getting Started](#-getting-started)
 
 </div>
 
 ---
 
-## 🌟 Live Application
+## Live Application
 
 The production build is deployed and hosted on Netlify with automated single-page application (SPA) routing:
 
@@ -26,7 +26,7 @@ The production build is deployed and hosted on Netlify with automated single-pag
 
 ---
 
-## 💼 Executive Overview
+## Executive Overview
 
 Hiring workflows are often bottlenecked by manual resume triage and fragmented candidate evaluation. **SmartCV Screening AI** bridges this gap by combining automated text extraction, multi-factor ATS scoring algorithms, and an intuitive recruiter workspace:
 
@@ -37,40 +37,40 @@ Hiring workflows are often bottlenecked by manual resume triage and fragmented c
 
 ---
 
-## ✨ Key Modules
+## Key Modules
 
-### 1. 🤖 Multi-Factor ATS Screening Engine
+### 1.  Multi-Factor ATS Screening Engine
 - Compares uploaded candidate resumes against the active Job Description (JD).
 - Computes comprehensive match percentiles: **Overall ATS Match**, **Core Technical Fit**, **Domain Experience**, **Education Level**, and **Soft Skills**.
 - Automatically extracts detected skills, highlights keyword deficiencies, and generates candidate interview questions.
 
-### 2. 🌓 Dynamic Light & Dark Theme System
+### 2.  Dynamic Light & Dark Theme System
 - Context-driven state management with instant persistence in `localStorage`.
 - Automatic detection of operating system color preferences (`prefers-color-scheme`).
 - Semantic CSS color variables (`--bg-app`, `--bg-card`, `--border-main`, `--text-main`, `--text-muted`) guaranteeing optimal readability, contrast, and zero flicker across all components.
 
-### 3. 📱 Responsive Multi-Device Interface
+### 3.  Responsive Multi-Device Interface
 - **Mobile Handsets (`< 640px`)**: Off-canvas sliding drawer with smooth touch backdrop, compact search bar, and full-width candidate modals.
 - **Tablets & Laptops (`640px - 1023px`)**: Adaptive 2-to-3 column dashboard grid, responsive data table scroll wrappers, and compact split-screen views.
 - **Desktop & Widescreen (`1024px+`)**: Fixed left-hand navigation, synchronized Recharts analytics, and side-by-side resume inspection panels.
 
-### 4. 👥 Candidate Talent Pool & Deep-Dive Profiles
+### 4.  Candidate Talent Pool & Deep-Dive Profiles
 - Real-time debounced full-text search across applicant names, roles, and technical skill tags.
 - Granular filtering by score thresholds, department, and candidate hiring status.
 - Interactive candidate drawer featuring SVG skill radar charts, work history timelines, and recruiter evaluation notes.
 
-### 5. 📅 Shortlist & Interview Scheduler
+### 5.  Shortlist & Interview Scheduler
 - Fast-tracks top-tier applicants into dedicated review stages.
 - Interactive interview booking modal with interviewer assignment, round selection, date-time picker, and calendar integration.
 
-### 6. 📊 Talent Analytics & Export Center
+### 6.  Talent Analytics & Export Center
 - Candidate pipeline funnel tracking using Recharts.
 - Demand distribution of required job skills across open requisitions.
 - Instant batch export of filtered candidate rosters into formatted CSV, JSON, and executive briefs.
 
 ---
 
-## 🎨 Design System & Color Tokens
+## Design System & Color Tokens
 
 The UI is built upon a cohesive semantic design system that adapts dynamically between light and dark themes:
 
@@ -85,7 +85,7 @@ The UI is built upon a cohesive semantic design system that adapts dynamically b
 
 ---
 
-## 📁 Domain-Driven Project Structure
+## Domain-Driven Project Structure
 
 All application components and modules are organized strictly by functional domain:
 
@@ -144,7 +144,7 @@ smartcv-screening/
 
 ---
 
-## 🛠️ Technology Stack
+## ️ Technology Stack
 
 | Domain | Technology | Version | Purpose |
 | :--- | :--- | :--- | :--- |
@@ -159,7 +159,7 @@ smartcv-screening/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js** (v18.x or v20.x recommended)
@@ -198,7 +198,7 @@ Optimized assets will be generated in the `dist/` directory.
 
 ---
 
-## 🌐 Production Deployment
+## Production Deployment
 
 ### Deploying to Netlify
 1. Fork or clone this repository to your GitHub account.
@@ -214,7 +214,7 @@ Optimized assets will be generated in the `dist/` directory.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -226,12 +226,12 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
 <div align="center">
-Developed with ❤️ by <a href="https://github.com/hasim2006">Mohammad Hasim</a>
+Developed with ️ by <a href="https://github.com/hasim2006">Mohammad Hasim</a>
 </div>
